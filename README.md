@@ -1,4 +1,4 @@
-<p align="center">After Add Some Data</p>
+<h2 align="center">After Added Some Data</h2>
 ![image](https://github.com/Khokan-Barai/Laravel_CRUD_With_Image_Upload_Using_jQuery_Ajax/assets/37436466/cff2211d-944f-4643-bebe-2ba9f21b1359)
 
 
